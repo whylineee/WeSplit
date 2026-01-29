@@ -47,7 +47,7 @@ struct ContentView: View {
                     Locale.current.currency?.identifier ?? "USD"))
                 }
             }
-            .navigationTitle(Text("WeSplit"))
+            .navigationTitle(Text("WeSplitt"))
         }
         
         
